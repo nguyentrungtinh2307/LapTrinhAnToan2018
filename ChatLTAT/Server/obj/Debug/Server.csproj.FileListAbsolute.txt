@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\ChatLTAT\Server\bin\Debug\Server.exe.config
+C:\Users\Admin\Desktop\ChatLTAT\Server\bin\Debug\Server.exe
+C:\Users\Admin\Desktop\ChatLTAT\Server\bin\Debug\Server.pdb
+C:\Users\Admin\Desktop\ChatLTAT\Server\obj\Debug\Server.Form1.resources
+C:\Users\Admin\Desktop\ChatLTAT\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Admin\Desktop\ChatLTAT\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ChatLTAT\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ChatLTAT\Server\obj\Debug\Server.exe
+C:\Users\Admin\Desktop\ChatLTAT\Server\obj\Debug\Server.pdb

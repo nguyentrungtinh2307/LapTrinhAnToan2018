@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\ChatLTAT\Client\bin\Debug\Client.exe.config
+C:\Users\Admin\Desktop\ChatLTAT\Client\bin\Debug\Client.exe
+C:\Users\Admin\Desktop\ChatLTAT\Client\bin\Debug\Client.pdb
+C:\Users\Admin\Desktop\ChatLTAT\Client\obj\Debug\Client.Form1.resources
+C:\Users\Admin\Desktop\ChatLTAT\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Admin\Desktop\ChatLTAT\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ChatLTAT\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ChatLTAT\Client\obj\Debug\Client.exe
+C:\Users\Admin\Desktop\ChatLTAT\Client\obj\Debug\Client.pdb
+C:\Users\Admin\Desktop\ChatLTAT\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
